@@ -1,0 +1,14 @@
+C:\Users\Vitalii\Desktop\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\bin\Debug\OOPLabsGame2.exe.config
+C:\Users\Vitalii\Desktop\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\bin\Debug\OOPLabsGame2.exe
+C:\Users\Vitalii\Desktop\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\bin\Debug\OOPLabsGame2.pdb
+C:\Users\Vitalii\Desktop\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.csprojAssemblyReference.cache
+C:\Users\Vitalii\Desktop\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.exe
+C:\Users\Vitalii\Desktop\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.pdb
+C:\Users\Vitalii\Desktop\1 сем\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\bin\Debug\OOPLabsGame2.exe.config
+C:\Users\Vitalii\Desktop\1 сем\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\bin\Debug\OOPLabsGame2.exe
+C:\Users\Vitalii\Desktop\1 сем\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\bin\Debug\OOPLabsGame2.pdb
+C:\Users\Vitalii\Desktop\1 сем\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.csprojAssemblyReference.cache
+C:\Users\Vitalii\Desktop\1 сем\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\1 сем\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.exe
+C:\Users\Vitalii\Desktop\1 сем\c#\OOPLABS\OOPLabsGame2\OOPLabsGame2\obj\Debug\OOPLabsGame2.pdb
